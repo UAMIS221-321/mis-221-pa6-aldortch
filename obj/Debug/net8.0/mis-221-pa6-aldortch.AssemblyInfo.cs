@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mis-221-pa6-aldortch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbb3da6bac05cd7e1d30a1509202c63b4b69b148")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ebcebc6693dac4df4b61fd8307bcb6f496bb91b")]
 [assembly: System.Reflection.AssemblyProductAttribute("mis-221-pa6-aldortch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mis-221-pa6-aldortch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
